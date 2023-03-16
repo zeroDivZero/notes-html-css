@@ -1,4 +1,4 @@
-# TEMPLATE
+# BOILERPLATE
 
 ```html
 <!DOCTYPE html>

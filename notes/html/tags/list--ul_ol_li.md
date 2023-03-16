@@ -1,4 +1,4 @@
-# List (`<ul>`, `<ol>`, `<li>`)
+# `<ul>`, `<ol>`, `<li>`
 
 ## Unordered (Bullet) List
 
