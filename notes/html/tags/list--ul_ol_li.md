@@ -28,7 +28,7 @@
 
 ```html
 <ol start="2002" reversed>
-  ```
+```
 
 ### Type
 
