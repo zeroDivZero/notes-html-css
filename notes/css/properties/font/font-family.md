@@ -19,6 +19,6 @@ If prefer another font from service like:
 
 <https://fonts.google.com/>
 
-Select font and size, then add font-embedding links and CSS rules:
+Select fonts and sizes, then add font-embedding links and CSS rules:
 
 ![Google Fonts](/assets/google-fonts.png)
