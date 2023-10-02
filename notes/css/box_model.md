@@ -49,7 +49,7 @@ margin: 10px 20px;
 
 ### Unit
 
-Pixels (px), percentage of parent (%), emphemeral unit (em), etc.
+Pixels (px), percentage of parent (%), ephemeral unit (em), etc.
 
 ### Side
 
