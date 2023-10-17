@@ -4,26 +4,26 @@
 
 Every element is rectangular box.
 
-## Size
+## [Size](./properties/width_and_height.md)
 
 Innermost content size.
 
 ```css
 height: 200px;
-width: 300px;
+width: 30em;
 ```
 
-## Padding
+## [Padding](./properties/padding.md)
 
 Pads content with space additional to content size but not background.
 
 ```css
-padding: 50px;
+padding: 5px 1em 0 2em;
 ```
 
-## Border
+## [Border](./properties/border/border.md)
 
-Need at least style to appear.
+Needs at least style to appear.
 
 ```css
 border-style: solid;
@@ -37,19 +37,19 @@ Or use shorthand (cannot specify side):
 border: 5px solid red;
 ```
 
-## Margin
+## [Margin](./properties/margin.md)
 
 Extra space outside border to separate from adjacent elements.
 
 ```css
-margin: 10px 20px;
+margin: 5% auto;
 ```
 
 ## Values
 
 ### Unit
 
-Pixels (px), percentage of parent (%), ephemeral unit (em), etc.
+Pixels (px), percentage of parent (%), ephemeral unit (em) (font size), etc.
 
 ### Side
 
