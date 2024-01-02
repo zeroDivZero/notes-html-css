@@ -1,6 +1,6 @@
 # CASCADE
 
-When multiple CSS styles applied to same element, actual styles taking effects based on priority. 4 categories: **position** > **specificity** > **type** > **importance**.
+When multiple CSS styles applied to same element, actual styles taking effects based on priority. 4 categories: **importance** > **type** > **specificity** > **position**.
 
 ## Position
 
