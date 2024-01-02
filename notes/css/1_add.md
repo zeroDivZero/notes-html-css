@@ -33,3 +33,21 @@ Rules saved in external `.css` file. Ideal when style applied to multiple pages.
      <link href="mystyle.css" rel="stylesheet" type="text/css" />
 </head>
 ```
+
+Example `mystyle.css` content:
+
+```css
+body {
+  background-color: green;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-size: 100px;
+}
+
+img {
+  width: 50%;
+}
+```
