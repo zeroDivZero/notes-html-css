@@ -13,7 +13,7 @@ Can wrap another element like image to make it linkable:
 
 ```html
 <a href="http://link.to.somewhere">
-  <img src="http://image.from.somewhere">
+  <img src="http://image.from.somewhere" />
 </a>
 ```
 
