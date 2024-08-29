@@ -1,6 +1,8 @@
 # `<figure>`
 
-Self-contained content with optional `<figcaption>`. Figure, its caption, and its contents are referenced as single unit.
+Self-contained content with optional `<figcaption>`. Mostly used to add image caption.
+
+Figure, its caption, and its contents are referenced as single unit.
 
 ```html
 <figure>
